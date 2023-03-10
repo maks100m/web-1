@@ -1,0 +1,18 @@
+div
+{
+    width: 250px;
+    border: solid 2px rgb(168, 168, 168);
+    background: #ccc;
+    border-radius: 25px;
+    float: left;
+    margin-left: 3%;
+}
+img.TV1
+{
+    margin-top: 3%;
+}
+
+h1.RAM
+{
+    margin-top: 26%;
+}
